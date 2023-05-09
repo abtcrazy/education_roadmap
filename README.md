@@ -107,7 +107,7 @@
 #### Books
 | Title | Author | Status |
 |:------:|:----:|:----:|
-| Грокаем алгоритмы | Адитья Бхаргава | Complete |
+| Grokking Algorithms | Aditya Bhargava | Complete |
 
 ## Soft_Skills
 #### Courses
