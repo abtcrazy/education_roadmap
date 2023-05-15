@@ -44,9 +44,13 @@
 | A/B Testing & Optimization Course | [Dynamic Yield](https://www.dynamicyield.com/course/testing-and-optimization/)| Complete |
 | A/B TESTS IN GAMES from A to B. Module 1-3 | [edvice](https://edvice.pro/online-course/ab-tests-from-a-to-b-part1/)|  [Complete](https://github.com/abtcrazy/education_roadmap/blob/main/Certificates/Edvice/AB_TESTS_IN_GAMES_from_A_to_B_Module_1.pdf), [Complete](https://github.com/abtcrazy/education_roadmap/blob/main/Certificates/Edvice/AB_TESTS_IN_GAMES_from_A_to_B_Module_2.pdf), [Complete](https://github.com/abtcrazy/education_roadmap/blob/main/Certificates/Edvice/AB_TESTS_IN_GAMES_from_A_to_B_Module_3.pdf)  |
 | A/B Testing in Python | [datacamp](https://www.datacamp.com/courses/ab-testing-in-python)| [Complete](https://github.com/abtcrazy/education_roadmap/blob/main/Certificates/Datacamp/AB_Testing_in_Python.pdf) |
-| Introduction to Statistics in Python | [datacamp](https://app.datacamp.com/learn/courses/introduction-to-statistics-in-python)| [Complete](https://github.com/abtcrazy/education_roadmap/blob/main/Certificates/Datacamp/Introduction_to_Statistics_in_Python.pdf) |
 
 ### Statistics
+#### Courses
+| Title | URL | Status (Certificate) |
+|:------:|:----:|:----:|
+| Introduction to Statistics in Python | [datacamp](https://app.datacamp.com/learn/courses/introduction-to-statistics-in-python)| [Complete](https://github.com/abtcrazy/education_roadmap/blob/main/Certificates/Datacamp/Introduction_to_Statistics_in_Python.pdf) |
+
 #### Books
 | Title | Author | Status |
 |:------:|:----:|:----:|
